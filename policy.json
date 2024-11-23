@@ -1,3 +1,8 @@
 {
     "DisableSettingsEditing": true
+    "DisableProfileTimeLayoutEditing": true,
+    "DisableProfileSubjectsEditing": true,
+    "DisableSettingsEditing": false,
+    "DisableDebugMenu": true,
+    
 }
